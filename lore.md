@@ -1,4 +1,4 @@
-# Light of Eos - Lore
+# Lore
 
 ## Magic
 Magic in the world is governed by two forces; chaos and order. **Chaos** is the bundling of entropy and energy; through energy production, entropy ensures that things break down, that time flows forward, that cause and effect are linear. **Order** is the steady state of all things; the resistance to energy and change.
