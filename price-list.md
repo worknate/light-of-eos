@@ -1,5 +1,5 @@
-# Light of Eos - Price List
-All prices in Marks
+# Price List
+All prices in Marks (ṃ)
 
 ## Alchemical
 * Acid (vial) ... 450
