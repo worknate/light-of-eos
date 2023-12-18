@@ -1,6 +1,6 @@
 # Light of Eos
 
-[Fate](https://fate-srd.com/fate-core) Low Fantasy
+[Fate](https://fate-srd.com/fate-core) Low Fantasy Campaign
 
 ## Campaign Notes
 
